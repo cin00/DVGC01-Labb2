@@ -510,12 +510,7 @@
             (concatenate 'string "testfiles/" file ".pas")) testingfiles
         )
     )
-
-
 )
-
-
-
 
 ;;=====================================================================
 ; THE PARSER - test all files
